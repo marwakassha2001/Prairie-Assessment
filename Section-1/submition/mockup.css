@@ -1,0 +1,14 @@
+.main{
+    font-size: smaller;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+}
+.img{
+    max-width: 10px;
+     size: 20px;
+     border-radius: 10%;
+ }
+p{
+  color: gray;
+ }
