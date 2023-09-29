@@ -8,7 +8,7 @@ D. JSX is the engine used by web browser to render Javascript code.
 
 Answer:
 
-------------
+----------B--
 
 Question:
 2. What is the virtual DOM?
@@ -20,7 +20,7 @@ D. The virtual DOM is an exact replica of the referenced "DOM", having same func
 
 Answer:
 
-------------
+------------A
 
 Question:
 3. What are components in React?
@@ -31,7 +31,7 @@ C. A component makes it that it is unnecessary to bind ‘this’ inside the con
 D. A component is essentially a piece of the user interface. It splits the user interface into independent, reusable parts that can be processed separately.
 
 Answer:
-
+D
 ------------
 
 Question:
@@ -43,7 +43,7 @@ C. State, Prop Components.
 D. Singular, Multiple Components.
 
 Answer:
-
+B
 ------------
 
 Question:
@@ -55,7 +55,7 @@ C. It is the action of reloading the Web page.
 D. It returns the HTML, which is to be displayed in the component.
 
 Answer:
-
+C
 ------------
 
 Question:
@@ -67,3 +67,4 @@ C. The state is a built-in React object that is used to contain data or informat
 D. State is a routing library built on top of React, which is used to set values in a React application. 
 
 Answer:
+B
