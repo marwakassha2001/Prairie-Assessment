@@ -1,0 +1,20 @@
+4.
+select lastname,fname,rank from mentors
+
+.select * from office where nb=333
+
+.select * from mentors where salary > 1000
+
+.select firstname,lastname,rank from mentors 
+where salary >1000
+
+.select mentors.firstname,mentors.lastname from mentors
+join mentors-department on mentors.topic= departement.topic
+where topic="englich&life Skills"
+
+
+.select firstname,lastname from students
+where skills="developement "
+
+.select SSN from students
+where skills="developement"
